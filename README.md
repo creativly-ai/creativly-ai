@@ -14,7 +14,7 @@
   <a href="https://www.creativly.ai/mcp">Connect your AI assistant</a>
 </p>
 
-## Build with Creativly
+## Open-source integrations
 
 Bring image and video generation into your app, or create directly from a conversation. Keep your references and results together in Creativly projects and sessions.
 
